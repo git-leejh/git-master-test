@@ -1,3 +1,5 @@
 git master Test
 
 git master clone
+
+git pull tset
